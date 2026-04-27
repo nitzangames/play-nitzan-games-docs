@@ -3,7 +3,7 @@
 Everything you need to ship a game that fits the platform. If you're instructing an AI assistant to build a game, point it at the URLs below — together they cover what to build, how to wire up platform features, and what to watch out for:
 
 - `play.nitzan.games/build` — this page (file layout, display target, SDK reference)
-- `play.nitzan.games/build.md` — same content as plain markdown for AI tooling
+- `github.com/nitzangames/play-nitzan-games-docs/blob/main/game-developer-guide.md` — same content as plain markdown for AI tooling that can't fetch the live site
 - `play.nitzan.games/play-sdk.js` — the canonical SDK source
 - `play.nitzan.games/game-dev-notes.md` — real-world lessons: pointer events in sandboxed iframes, canvas setup gotchas, GC discipline, mobile perf, thumbnail rules
 
